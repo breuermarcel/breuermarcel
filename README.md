@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @breuermarcel
-- 👀 I’m interested in AI, financial analysis.
